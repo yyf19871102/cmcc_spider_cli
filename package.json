@@ -1,0 +1,21 @@
+{
+  "name": "cmcc-spider-cli",
+  "version": "0.0.1",
+  "private": false,
+  "scripts": {},
+  "description": "cmcc爬虫脚手架",
+  "keywords": [
+    "spider",
+    "cli"
+  ],
+  "author": "yangyufei",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "bluebird": "^3.5.3",
+    "lodash": "^4.17.11",
+    "log4js": "^3.0.6"
+  }
+}
