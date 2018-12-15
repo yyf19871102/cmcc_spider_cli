@@ -17,7 +17,7 @@ let config = {
 		DEFAULT     : {code: 100, msg: '系统错误！'},
 	},
 
-	GIT_URL     : 'yyf19871102/cmcc_spider_template'
+	GIT_URL     : 'yyf19871102/spider_template'
 };
 
 // 读取config目录下所有配置文件，并合并到system当中
