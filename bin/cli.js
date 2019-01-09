@@ -93,7 +93,7 @@ program
 				{
 					type    : 'input',
 					name    : 'version',
-					message : '请选择版本：',
+					message : '请选择分支(branch)/版本(tag)：',
 				}
 			]);
 
